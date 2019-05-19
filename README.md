@@ -2,5 +2,5 @@
 
 ! [./avengers.png](AVENGERS)
 
-Este repositório está sendo usado durante aprendizado no curso com o @BrOrlandi na Udemy
+Este repositório está sendo usado durante aprendizado no curso com o @BrOrlandi na Udemy, curso de Git e GitHub
 
